@@ -90,7 +90,7 @@ sender/
 ├── sender_private.pem     # Khóa riêng tư sender
 ├── receiver_public.pem    # Khóa công khai receiver
 └── README.md
-receiver
+receiver/
 ├── receiver_web.py        # Server web cho người nhận
 ├── templates/
 │   ├── receiver.html      # Giao diện người nhận
