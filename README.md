@@ -5,7 +5,7 @@
 ## Tính Năng
 
 - 🔐 **Mã hóa RSA + DES3**: Bảo mật file với khóa công khai/riêng tư
-- ✍️ **Chữ ký số**: Xác thực tính toàn vẹn của file và metadata
+- ✍️ **Chữ ký số**: Xác thực tính toàn vẹn của file 
 - 🌐 **Giao diện Web**: Dễ sử dụng với giao diện web hiện đại
 - 📡 **Kết nối LAN**: Có thể gửi file cho người dùng trong cùng mạng LAN
 - 📋 **Log chi tiết**: Theo dõi quá trình gửi/nhận file
