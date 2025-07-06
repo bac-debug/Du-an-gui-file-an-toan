@@ -123,4 +123,12 @@ btl2/
 - File được chia thành 3 đoạn để gửi
 - Mỗi đoạn được mã hóa và ký riêng biệt
 - File nhận được sẽ được lưu trong thư mục hiện tại
-- Log chi tiết được hiển thị trong giao diện web 
+- Log chi tiết được hiển thị trong giao diện web
+Kết Quả Chạy Chương Trình
+
+Dưới đây là ảnh chụp màn hình minh họa quá trình gửi và nhận file âm thanh an toàn thông qua giao diện web:
+
+Giao diện Người Gửi khi gửi thành công:
+![Sender_web](https://github.com/bac-debug/Du-an-gui-file-an-toan/raw/main/Screenshot%202025-07-06%20165504.png)
+Giao diện Người Nhận khi nhận file thành công:
+
