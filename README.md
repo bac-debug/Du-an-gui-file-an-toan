@@ -83,14 +83,17 @@ ip addr show
 ## Cấu Trúc File
 
 ```
-btl2/
+sender/
 ├── sender_web.py          # Server web cho người gửi
-├── receiver_web.py        # Server web cho người nhận
 ├── templates/
 │   ├── sender.html        # Giao diện người gửi
-│   └── receiver.html      # Giao diện người nhận
 ├── sender_private.pem     # Khóa riêng tư sender
 ├── receiver_public.pem    # Khóa công khai receiver
+└── README.md
+receiver
+├── receiver_web.py        # Server web cho người nhận
+├── templates/
+│   ├── receiver.html      # Giao diện người nhận
 ├── receiver_private.pem   # Khóa riêng tư receiver
 ├── sender_public.pem      # Khóa công khai sender
 └── README.md
